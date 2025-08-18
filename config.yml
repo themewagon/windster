@@ -1,6 +1,6 @@
-languageCode:           "en"
-title:                  "Windster - Tailwind CSS Dashboard"
-baseURL:                "https://demo.themesberg.com/windster/"
+languageCode: "en"
+title: "Windster - Tailwind CSS Dashboard"
+baseURL: "https://demo.themesberg.com/windster/"
 enableInlineShortcodes: true
 canonifyURLs: true
 
@@ -11,19 +11,23 @@ params:
 markup:
   goldmark:
     renderer:
-      unsafe:           true
+      unsafe: true
   highlight:
-    noClasses:          false
-    style:              colorful
+    noClasses: false
+    style: colorful
   tableOfContents:
-    startLevel:         2
-    endLevel:           6
+    startLevel: 2
+    endLevel: 6
 
-buildDrafts:            true
-buildFuture:            true
+buildDrafts: true
+buildFuture: true
 
-enableRobotsTXT:        true
-metaDataFormat:         "yaml"
-disableKinds:           ["404", "taxonomy", "taxonomyTerm", "RSS"]
+enableRobotsTXT: true
+metaDataFormat: "yaml"
+disableKinds: ["404", "taxonomy", "taxonomyTerm", "RSS"]
 
-publishDir:             "_gh_pages"
+publishDir: "_gh_pages"
+
+caches:
+  images:
+    dir: ":cacheDir/images"
