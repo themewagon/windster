@@ -32,3 +32,8 @@ publishDir: "_gh_pages"
 caches:
   images:
     dir: ":cacheDir/images"
+
+module:
+  mounts:
+    - source: "src"
+      target: "assets"
