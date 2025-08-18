@@ -3,6 +3,7 @@ title: "Windster - Tailwind CSS Dashboard"
 baseURL: "https://themewagon.github.io/windster/"
 enableInlineShortcodes: true
 canonifyURLs: true
+relativeURLs: false
 
 params:
   authors: Themesberg
