@@ -44,6 +44,6 @@ Design and code are completely written by Themesberg's design and development te
 
 ## License
 
-- Copyright 2021 Themesberg (Crafty Dwarf LLC) (<https://themesberg.com>)
-- Themesberg [license](https://themesberg.com/licensing#mit) (MIT License)
+- Copyright 2021 Themesberg (Crafty Dwarf LLC) <https://themesberg.com>
+- Themesberg [MIT License](https://themesberg.com/licensing#mit)
 - Distributed by [ThemeWagon](https://themewagon.com)
