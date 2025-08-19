@@ -40,7 +40,7 @@ The file will be available in the `.build/` folder.
 
 ## Author
 
-Design and code are completely written by Themebergs's design and development team.
+Design and code are completely written by Themesberg's design and development team.
 
 ## License
 
