@@ -45,5 +45,5 @@ Design and code are completely written by Themesberg's design and development te
 ## License
 
 - Design and Code is Copyright &copy;[Themesberg](https://themesberg.com)
-- Themesberg [MIT License](https://themesberg.com/licensing#mit)
+- Licensed under [MIT License](https://themesberg.com/licensing#mit)
 - Distributed by [ThemeWagon](https://themewagon.com)
