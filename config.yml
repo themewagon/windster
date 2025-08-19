@@ -27,7 +27,7 @@ enableRobotsTXT: true
 metaDataFormat: "yaml"
 disableKinds: ["404", "taxonomy", "taxonomyTerm", "RSS"]
 
-publishDir: "_gh_pages"
+publishDir: "public"
 
 caches:
   images:

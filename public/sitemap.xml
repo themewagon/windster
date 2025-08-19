@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/windster/authentication/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/e-commerce/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/pricing/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/e-commerce/products/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/authentication/sign-in/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/authentication/sign-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/users/list/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/windster/users/</loc>
+  </url>
+</urlset>
