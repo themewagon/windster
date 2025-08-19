@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://themewagon.github.io/windster/authentication/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/e-commerce/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/pricing/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/e-commerce/products/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/authentication/sign-in/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/authentication/sign-up/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/users/list/</loc>
+  </url>
+  <url>
+    <loc>https://themewagon.github.io/windster/users/</loc>
+  </url>
+</urlset>
