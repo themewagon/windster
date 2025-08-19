@@ -6,7 +6,7 @@
 
 #### Download
 
-- [Download from ThemeWagon](https://themewagon.com/themes/dashboard-windster/)
+- [Download from ThemeWagon](https://themewagon.com/themes/windster/)
 
 ## Getting Started
 
@@ -44,6 +44,6 @@ Design and code are completely written by Themesberg's design and development te
 
 ## License
 
-- Copyright 2021 [Themesberg](https://themesberg.com)
+- Design and Code is Copyright &copy;[Themesberg](https://themesberg.com)
 - Themesberg [MIT License](https://themesberg.com/licensing#mit)
 - Distributed by [ThemeWagon](https://themewagon.com)
